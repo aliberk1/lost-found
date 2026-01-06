@@ -28,7 +28,7 @@ Menü: Server → Data Import
 
 “Import from Self-Contained File” seçeneğini işaretle.
 
-sql/seed.sql dosyasını seç.
+lost_found.sql dosyasını seç.
 
 “Default Target Schema” kısmına lost_found yaz.
 
@@ -58,5 +58,6 @@ Sonra tarayıcıdan:
 👉 http://localhost:8000
 
 Her şey doğruysa proje açılacak 
+
 
 
